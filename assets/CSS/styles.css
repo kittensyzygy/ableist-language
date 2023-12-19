@@ -1,0 +1,29 @@
+body {
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 3vw;
+    padding-right: 3vw;
+    background-color: black;
+    font-family: "Noto Sans";
+    color: white;
+}
+
+a {
+    color: yellow;
+}
+
+table, th, td {
+  border-collapse: collapse;
+  border-width: thin;
+  border-style: solid;
+  border-color: white;
+  padding: 5px;
+}
+
+tr:hover {
+  background-color: gray;
+}
+
+footer {
+  margin-top: 3vh;
+}
